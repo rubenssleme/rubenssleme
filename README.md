@@ -10,4 +10,4 @@
 - 🌱 Atualmente estou aprendendo tudo! 🤣
 - 👯 Procuro colaborar com outros criadores de conteúdo e fazer mentoria Dev Java.
 - 🥅 Objetivos de 2020: contribuir mais para projetos de código aberto
-- ⚡ Curiosidade: adoro estudar e mexer arduino e raspberry Pi.
+- ⚡ Curiosidade: adoro estudar e mexer com arduino e raspberry Pi.
