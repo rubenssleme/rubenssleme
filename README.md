@@ -1,7 +1,7 @@
 ### Oi eu sou o Rubens Leme - DEV Java 👋
 
 [![Website](https://img.shields.io/website?label=In-Rubens-Leme&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rubens-leme/)
-[![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/rubens-leme/)
+[![Linkedin Follow](https://img.shields.io/twitter/follow/rubenss_leme?color=1DA1F2&logo=twitter&style=for-the-badge)]((https://twitter.com/rubenss_leme))
 
 
 ## Sou marido, pai, desenvolvedor e professor!!
@@ -20,7 +20,8 @@
 [<img align="left" alt="Rubens Leme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rubens-leme/)
 [<img align="left" alt="Rubens Leme | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rubens.leme/)
 
-
+<br />
+<br />
 
 ### 📺 Vídeos mais recentes do YouTube:
 
