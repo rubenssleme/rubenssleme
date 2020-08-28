@@ -33,4 +33,4 @@
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/c/RubensLeme/videos)
