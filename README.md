@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE:START -->
 - [ANDROID: Videos sobre android basico  | duvidas deixe no comentario](https://www.youtube.com/watch?v=WhyLX5vowjs&list=PLGwQyeqmEP7ZPWqLNTmwFO1NE9bafjsEe)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
+- [JAVA: Videos sobre java basico | duvidas deixe no comentario](https://www.youtube.com/watch?v=c2Po4QfuoRU&list=PLGwQyeqmEP7ZAH21Up1_1Tyo1Hj2z32xJ)
+- [NETBEANS IDE: Videos sobre java basico usando Netbeans IDE](https://www.youtube.com/watch?v=ASxpFyRSauo&list=PLGwQyeqmEP7bESUEcqycPDOUfkaP_qsoE)
+- [ECLIPSE IDE: Videos sobre java basico usando Eclipse IDE | (2/3)](https://www.youtube.com/watch?v=c2Po4QfuoRU&list=PLGwQyeqmEP7ZAH21Up1_1Tyo1Hj2z32xJ)
+- [JAVA WEB: Videos sobre java basico para web| duvidas deixe no comentario]](https://www.youtube.com/watch?v=r-XFY06CSQs&list=PLGwQyeqmEP7bDFRKdIibAopqrGEymshCo)
 <!-- YOUTUBE:END -->
 
 ➡️ [mais videos...](https://www.youtube.com/c/RubensLeme/videos)
