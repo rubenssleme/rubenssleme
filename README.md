@@ -34,3 +34,7 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [mais videos...](https://www.youtube.com/c/RubensLeme/videos)
+
+![Rubens Leme's Github Stats](https://github-readme-stats.vercel.app/api?username=rubenssleme&show_icons=true&theme=radical)
+
+![Rubens Leme's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenssleme)
