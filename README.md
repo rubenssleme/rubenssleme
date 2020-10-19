@@ -7,7 +7,7 @@
 ## Sou marido, pai, desenvolvedor e professor!!
 
 - 🔭 Arquiteto de sistemas Java Sênior na Spread Tecnologia | Banco Caixa Econômica Federal.
-- 🌱 Atualmente estou aprendendo tudo! 🤣
+- 🌱 Atualmente, estou aprendendo tudo! 🤣
 - 👯 Procuro colaborar com outros criadores de conteúdo e fazer mentoria Dev Java.
 - 🥅 Objetivos de 2020: contribuir mais para projetos de código aberto
 - ⚡ Curiosidade: adoro estudar e mexer com arduino e raspberry Pi.
