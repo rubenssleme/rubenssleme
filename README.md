@@ -4,7 +4,7 @@
 [![Linkedin Follow](https://img.shields.io/twitter/follow/rubenss_leme?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rubenss_leme)
 
 
-## Sou marido, pai, desenvolvedor e professor!!
+## Sou Pai, desenvolvedor e professor!!
 
 - 🔭 Arquiteto de sistemas Java Sênior na Spread Tecnologia | Banco Caixa Econômica Federal.
 - 🌱 Atualmente, estou aprendendo tudo! 🤣
