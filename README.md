@@ -6,11 +6,13 @@
 
 ## Sou Pai, desenvolvedor e professor!!
 
-- 🔭 Arquiteto de sistemas Java Sênior na Spread Tecnologia | Banco Caixa Econômica Federal.
-- 🌱 Atualmente, estou aprendendo tudo! 🤣
+- 🔭 Arquiteto de software Sênior na CI&T  | Openbank.
+- 🌱 Atualmente, estou aprendendo de tudo! 🤣
 - 👯 Procuro colaborar com outros criadores de conteúdo e fazer mentoria Dev Java.
-- 🥅 Objetivos de 2020: contribuir mais para projetos de código aberto
+- 🥅 Objetivos de 2021: contribuir mais para projetos de código aberto
 - ⚡ Curiosidade: adoro estudar e mexer com arduino e raspberry Pi.
+- ⚡ Curiosidade: adoro estudar Java, Python e programação mobile.
+- 🥅 Livros: Codigo limpo e arquitetura limpa.
 
 ### Conecte-se comigo:
 
